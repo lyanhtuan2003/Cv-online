@@ -1,0 +1,185 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "CV Content Tuấn đẹp trai",
+      "content": "Hello World",
+      "image": "",
+      "author": "Lý anh tuấn",
+      "years_of_experience": "2",
+      "satisfied_clients": "450",
+      "working_hours": "200",
+      "awards_won": "11"
+    }
+  ],
+  "profile": [
+    {
+      "age": "19",
+      "name": "Lý anh tuấn",
+      "image": "/../../assetsadmin/img/user.jpg",
+      "position": "front-end developers ",
+      "id": "1"
+    }
+  ],
+  "services": [
+    {
+      "name": "lnh uấn",
+      "describe": "1hqđ",
+      "link": "https://github.com/datlt2306/web501-web2061/tree/web501-we17301/we17301/pages/admin",
+      "id": "2"
+    },
+    {
+      "name": "lý an jfc n",
+      "describe": "1hwsbqđ",
+      "id": "3"
+    },
+    {
+      "name": "lddjj  dhd",
+      "describe": " ndqhd bqđ",
+      "id": "4"
+    },
+    {
+      "name": "and dnqdqdh  qhd",
+      "describe": "  qdhqd  đhq",
+      "id": "5"
+    },
+    {
+      "name": " wj  hưdw",
+      "describe": "1d djjdqd",
+      "id": "6"
+    },
+    {
+      "name": "wfqf",
+      "describe": "fwfwfq",
+      "linkss": "https://imagekit.io/dashboard/url-endpoints/new",
+      "id": "8"
+    },
+    {
+      "name": "lý anh tuấn",
+      "describe": "1hwsbqđ",
+      "linkss": "https://github.com/lyanhtuan2003/lab3-ph19349/tree/main/lab3",
+      "id": "1"
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "lýanh tuán",
+      "describe": "anh đây a đây",
+      "image": "http://127.0.0.1:5500/image/user-img.png",
+      "id": 1
+    },
+    {
+      "name": "dhdhdjd",
+      "describe": "",
+      "image": "C:\\fakepath\\Screenshot (7).png",
+      "id": 2
+    },
+    {
+      "name": "project 3",
+      "describe": "anh đây y",
+      "image": "http://127.0.0.1:5500/image/user-img.png",
+      "id": 3
+    },
+    {
+      "name": "project 4",
+      "describe": " dqjq jf",
+      "image": "C:\\fakepath\\Screenshot (7).png",
+      "id": 4
+    },
+    {
+      "name": "project 5",
+      "describe": "anh đây y",
+      "image": "http://127.0.0.1:5500/image/user-img.png",
+      "id": 5
+    },
+    {
+      "name": "project 6",
+      "describe": " dqjq jf",
+      "image": "C:\\fakepath\\Screenshot (7).png",
+      "id": 6
+    }
+  ],
+  "contact": [
+    {
+      "name": "lý anh tuấn",
+      "email": "tuanph19349@gmail.com",
+      "subject": "subjecthshadhdhq",
+      "message": "Hello World",
+      "id": "1"
+    }
+  ],
+  "menu": [
+    {
+      "name": "About",
+      "path": "/admin/posts/projectpost",
+      "id": "1"
+    },
+    {
+      "id": "7",
+      "name": "Menu",
+      "path": "/admin/menu/projectmenu"
+    },
+    {
+      "id": "3",
+      "name": "Services",
+      "path": "/admin/servicess/projectservicess"
+    },
+    {
+      "id": "4",
+      "name": "Portfolio",
+      "path": "/admin/portfolio/projectportfolio"
+    },
+    {
+      "id": "5",
+      "name": "Contact",
+      "path": "/admin/contact/projectcontact"
+    },
+    {
+      "id": "6",
+      "name": "Profile",
+      "path": "/admin/profile/projectprofile"
+    },
+    {
+      "name": "Skill",
+      "path": "/admin/skill/projectskill",
+      "id": "2"
+    },
+    {
+      "name": "Clinet",
+      "path": "/",
+      "id": "8"
+    }
+  ],
+  "skill": [
+    {
+      "id": "1",
+      "name": "web design",
+      "progress": "90"
+    },
+    {
+      "id": "2",
+      "name": "HTML",
+      "progress": "85"
+    },
+    {
+      "id": "3",
+      "name": "CSS",
+      "progress": "70"
+    },
+    {
+      "id": "4",
+      "name": "graphic design",
+      "progress": "75"
+    },
+    {
+      "id": "5",
+      "name": "UI/UX design  ",
+      "progress": "80"
+    },
+    {
+      "name": "Javacript",
+      "progress": "60",
+      "id": "44cozij"
+    }
+  ]
+}
